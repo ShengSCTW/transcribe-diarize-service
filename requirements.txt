@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+whisperx
+pyannote.audio
+yt-dlp
